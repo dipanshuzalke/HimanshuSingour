@@ -40,20 +40,8 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 
 ---
 
-### 🎯 **Competitive Programming Achievements**
-- **Google Kickstart**
-- **Facebook Hacker Cup**
-- **MP Coding Contest**
-
----
-
-### 💼 **Cracked Companies**
-- **Amazon**
-- **MakeMyTrip**
-  
-Also received **two remote job offers** from **USA-based companies**.
-
----
-
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
+
+
+
