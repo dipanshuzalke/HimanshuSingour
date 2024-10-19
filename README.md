@@ -1,7 +1,6 @@
 <h2 align="left">Hi Developers 👋!</h2>
 
-I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions and cracking PBCs like **Amazon** and **MakeMyTrip**. Additionally, I have received two remote job offers from USA-based companies.
-
+I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions.
 ---
 
 ### 🔧 **Technologies & Tools**
