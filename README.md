@@ -1,6 +1,6 @@
 <h2 align="left">Hi Developers 👋!</h2>
 
-I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions. 
+I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions and cracking PBCs like **Amazon** and **MakeMyTrip**. Additionally, I have received two remote job offers from USA-based companies.
 
 ---
 
@@ -8,8 +8,8 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 
 #### 🚀 **Backend Skills**
 - **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
-- **APIs**: RESTful APIs, Messaging Tools (Apache Kafka, Apache Camel)
-- **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, Etc.
+- **APIs**: RESTful APIs
+- **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA etc
 
 #### 🎨 **Frontend Skills**
 - **Frameworks/Libraries**: React, Angular, Next.js
@@ -29,8 +29,14 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
     - CloudFormation
     - Lambda
     - VPC (Virtual Private Cloud)
+    - CloudWatch
     - IAM (Identity and Access Management)
 - **Other Tools**: JFrog, Prometheus, Grafana
+
+#### ⚡ **Apache Tools**
+- **Apache Kafka**: Distributed streaming platform for building real-time data pipelines and streaming applications.
+- **Apache Camel**: Integration framework for routing and mediation rules, enabling communication between different systems.
+- **Apache JMeter**: Performance testing tool for web applications, APIs, and other services.
 
 ---
 
@@ -38,6 +44,14 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 - **Google Kickstart**
 - **Facebook Hacker Cup**
 - **MP Coding Contest**
+
+---
+
+### 💼 **Cracked Companies**
+- **Amazon**
+- **MakeMyTrip**
+  
+Also received **two remote job offers** from **USA-based companies**.
 
 ---
 
