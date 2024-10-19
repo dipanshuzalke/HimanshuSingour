@@ -9,7 +9,7 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 #### 🚀 **Backend Skills**
 - **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
 - **APIs**: RESTful APIs
-- **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA etc
+- **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 
 #### 🎨 **Frontend Skills**
 - **Frameworks/Libraries**: React, Angular, Next.js
@@ -43,5 +43,7 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
-
-
+- [Instagram](https://www.instagram.com/yourusername)
+- [X (formerly Twitter)](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [GitHub](https://github.com/yourusername)
