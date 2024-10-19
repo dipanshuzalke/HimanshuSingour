@@ -44,3 +44,5 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - [Portfolio](https://main--himanshusp.netlify.app)
 - [Instagram](https://www.instagram.com/endless_success___/?hl=en)
 - [Topmate](https://topmate.io/himanshu_singour)
+- [Medium](https://medium.com/@singourhimanshu3)
+
