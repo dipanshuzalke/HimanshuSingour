@@ -1,6 +1,7 @@
 <h2 align="left">Hi Developers 👋!</h2>
 
 I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming**, securing impressive positions in various competitions.
+
 ---
 
 ### 🔧 **Technologies & Tools**
@@ -27,8 +28,6 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
     - CodeBuild
     - CloudFormation
     - Lambda
-    - VPC (Virtual Private Cloud)
-    - CloudWatch
     - IAM (Identity and Access Management)
 - **Other Tools**: JFrog, Prometheus, Grafana
 
@@ -42,7 +41,6 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
-- [Instagram](https://www.instagram.com/yourusername)
-- [X (formerly Twitter)](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [Portfolio](https://main--himanshusp.netlify.app)
+- [Instagram](https://www.instagram.com/endless_success___/?hl=en)
+- [Topmate](https://topmate.io/himanshu_singour)
